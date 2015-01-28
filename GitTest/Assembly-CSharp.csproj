@@ -48,9 +48,13 @@
   <ItemGroup>
      <Compile Include="Assets\GitTest.cs" />
      <Compile Include="Assets\Scripts\GameTest.cs" />
+<<<<<<< HEAD
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
+=======
+     <Compile Include="Assets\Scripts\Hero.cs" />
+>>>>>>> b6c74ee2747d4004cf53ca85c721178ef277a8f4
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
