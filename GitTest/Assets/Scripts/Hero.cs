@@ -9,8 +9,6 @@ public class Hero : MonoBehaviour {
 	Debug.Log("hero complate");
 	
 	Debug.Log("This is wrong");
-	
-	Debug.Log("我要回滚");
 	}
 	
 	// Update is called once per frame
